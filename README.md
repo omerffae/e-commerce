@@ -1,22 +1,23 @@
 # e-commerce
 
-**e-commerce** Projesi, kişinin kendine özel API'ı bağlayarak ürünlerini tanıtabilir ve işlem yapabilen çok sayfalı bir açık kaynaklı yazılımdır.🚀  
+**e-commerce** Project is an open-source, multi-page software where you can connect your own API to showcase your products and perform transactions. 🚀  
 
-![Proje Görseli](./images/e-commerce-gif.gif)  
-
----
-
-## 🛠️ Özellikler
-
-- 🔹 **Özellik 1**: HTML5, CSS3 ve JS ile yazıldı.
-- 🔹 **Özellik 2**: API olarak db.json kullanıldı
-- 🔹 **Özellik 3**: Responsive tasarımdır.  
+![Project Image](./images/e-commerce-gif.gif)  
 
 ---
 
-## 📚 Kurulum
+## 🛠️ Features
 
-1. Bu projeyi bilgisayarınıza klonlayın:  
+- 🔹 **Feature 1**: Built with HTML5, CSS3, and JS.
+- 🔹 **Feature 2**: Uses db.json as the API.
+- 🔹 **Feature 3**: Responsive design.  
+
+---
+
+## 📚 Installation
+
+1. Clone this project to your computer:  
    ```bash
-   cd Klasör adı
+   cd FolderName
    git clone https://github.com/omerffae/e-commerce.git
+```
